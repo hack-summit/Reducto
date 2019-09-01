@@ -1,48 +1,56 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-26:12
-MERGED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-26:12
+ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-24:12
+MERGED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-24:12
 MERGED from [:react-native-gesture-handler] D:\ReactNative\beherchange\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9baad9cba8c2136a9f3523cc21a75a3c\AndroidManifest.xml:2:1-13:12
-MERGED from [org.webkit:android-jsc:r245459] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fc66de793de7d7dde9902c753b3962d7\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\bd0d76581b453afabab23c24a7d187c9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\1b12b123ebbb459eb6038073ea55d052\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\49a731b4affd9ee29d2b10677d560df9\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ece0224849fb827b9855bd7f86aea3a0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\b78174c972b94dbbc099b1fff53d8e79\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\21d801b8c6e7b0e217cce29040970ef7\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\4e0f53a3d0edc012ca735e28a6d217e8\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d7ad9a68b48ff9d3d0040ac4484d8d63\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9ac7536273863023f3a102d84f3b3510\AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\eb59fc05a22266f8cfe05da1c30e6561\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d4a6174a196db9cdc250284dab565aa1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\559713e21cd0820eafebfe207da3e4f0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\933a8eda1fb93937bbd892f3c63e38a9\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c2d55e07ccc70e633f191c1419c5206a\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ef9e9e747cab34a7bdaa815c4e3c4081\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\305a9bea620c2fe274903f5cde412957\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\143cfcf25ab095db8bfbede54fb66466\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\2c68df258682074948cfa4892dfacd80\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7d49c6c30496de367f709aaaec4421b6\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\952d144c095c8b5aeee55fb4647949d7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\39d3b2874bf213a1a24810ff30800e94\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a5c54d1e1f02441a001eaa2a6caf6bc3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\04b271f1089c526abc61627753759668\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ef6a625fdcba3c149534facb685effd2\AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9951c93eac492151d5925adcc3b817f7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\8322de0faa8cdc921568765f6cae40e7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\b7366db9dbb95a538436e6992410f2e3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\59103b9d76923bca3c0c03d247081e1e\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a8232297a8a5f6c7e6710739efc40a89\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\28c306b993b4f90b97a567979dd4754e\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\bc284bc79a4a5b9d19ea7c23ac24b654\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\763c5d952f173ad640a19cde175b0be0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\685fec9ba83a14fa28f451ef6c530bb4\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fdb535659c44fd15c1f86bcc15dcbe7f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\89f0e134051d0f0e0423c33a58223575\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] D:\ReactNative\beherchange\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d8a28aff5e8fa8a5e2cbcef99444c604\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7c3f01de02b3b50010c7a5c892a531c8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\95529aa9e455c5bda7b69c84c56563f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fb656a8c480cf5d9043052b7d9e479e3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7ae6e3eca6cf1033d77feb05ee61e3e6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\29e50df17170abf95a7edc19f842e025\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\3aa0f48fb0e5151565c99ec48c321d03\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\b6e334e623e608322e3064258f1380ca\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fb201f58328367a471af9e7711fb8d1e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d900090e96005e5ca9cf29b495a7e012\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c7a670fda218ccf6f17efffbe29cb3b6\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\35855b730e9f80c00331571479429f85\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a470555c547287192f9db71fa79f180d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\2594abf7317ebc124992952cae8c2b26\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cecc0d9478384164e99a1907b6305373\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\1c69786ba540a869bfe743bb1bbcd396\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\64a70e23b337cd0ee5b3441cf53be616\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ddd336262ca24549b2eefefb30e06691\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\5e0e0a7b6ce1bb094a3abae368fc27df\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\74b8f1425d65ddcaea4540d1223b279d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\24cc231ce1a713a71694b7c24ec87f8a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\70685a9a9da02447986769f360075728\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\79d162336d14ec3d02e197dd2cd43b3c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\07ed4be19070afbeca0da261a890d727\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\1e4ad43e93dfede08f025063cf917e9b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\977f74b694705a383c873eb6f9138453\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\338ba40643f5f4c59459c9d7885bc41d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ecab970821379834f68979732dcfec03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\21571c93c649fdf6759dcbca1ee7c19a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cf4a3b696684dfa379b9576aaf12fc7b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\e4f4d729e6b70e8a39b21bdd2fb9b1bd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\5b425ce0e4c951af16b8a6314ec175ee\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d4fc36ff7ea7d342f26be7aecc5176b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\87f92b488b70853615fbb7f541938087\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\641353e674040656c9b8132217e3ea88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\5b1d1ee179caad0fd3f6abb87755b560\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\af254a0920c8ede803e69bf488fa74b5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fed4e27db543d290ebac21422ff5f930\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\f7932a57d79b3b2b54465c35f3775b0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\f39d1354aadd940acced94017b1c134b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7f6f843eb393be127c35d4b729c6f9c1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\654e4b7f99d16350bf40043c3080e73e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cfdfe40ba9e064f37435b5a951acfc7b\AndroidManifest.xml:2:1-9:12
 INJECTED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml:2:1-8:12
 INJECTED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml:2:1-8:12
 INJECTED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml:2:1-8:12
@@ -53,162 +61,184 @@ INJECTED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.x
 		INJECTED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-24:12
 		INJECTED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml
 	xmlns:tools
 		ADDED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:1-24:12
 		INJECTED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:1:11-69
-uses-permission#android.permission.INTERNET
-ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:4:5-67
-	android:name
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9baad9cba8c2136a9f3523cc21a75a3c\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9baad9cba8c2136a9f3523cc21a75a3c\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9ac7536273863023f3a102d84f3b3510\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9ac7536273863023f3a102d84f3b3510\AndroidManifest.xml:11:5-20
-MERGED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\04b271f1089c526abc61627753759668\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\04b271f1089c526abc61627753759668\AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ef6a625fdcba3c149534facb685effd2\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ef6a625fdcba3c149534facb685effd2\AndroidManifest.xml:22:5-23:19
+ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:4:5-22:19
+MERGED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:4:5-22:19
+MERGED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:4:5-22:19
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d8a28aff5e8fa8a5e2cbcef99444c604\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d8a28aff5e8fa8a5e2cbcef99444c604\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c7a670fda218ccf6f17efffbe29cb3b6\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c7a670fda218ccf6f17efffbe29cb3b6\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\35855b730e9f80c00331571479429f85\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\35855b730e9f80c00331571479429f85\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a470555c547287192f9db71fa79f180d\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a470555c547287192f9db71fa79f180d\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\2594abf7317ebc124992952cae8c2b26\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\2594abf7317ebc124992952cae8c2b26\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cecc0d9478384164e99a1907b6305373\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cecc0d9478384164e99a1907b6305373\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\e4f4d729e6b70e8a39b21bdd2fb9b1bd\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\e4f4d729e6b70e8a39b21bdd2fb9b1bd\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\5b425ce0e4c951af16b8a6314ec175ee\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\5b425ce0e4c951af16b8a6314ec175ee\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\04b271f1089c526abc61627753759668\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\e4f4d729e6b70e8a39b21bdd2fb9b1bd\AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:8:7-39
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:6:7-39
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:6:7-39
 	tools:ignore
 		ADDED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:10:7-52
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:8:7-52
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:8:7-52
 	tools:targetApi
 		ADDED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:9:7-41
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:7:7-41
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:7:7-41
 	android:allowBackup
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:11:7-34
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:9:7-34
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:9:7-34
 	android:theme
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:12:7-38
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:10:7-38
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:10:7-38
 	android:usesCleartextTraffic
 		ADDED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:7:7-38
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:5:7-38
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:5:7-38
 activity#com.beherchange.MainActivity
-ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:13:7-22:18
+ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:11:7-20:18
 	android:label
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:13:9-41
 	android:windowSoftInputMode
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:17:9-51
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:15:9-51
 	android:configChanges
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:16:9-79
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:14:9-79
 	android:name
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:14:9-37
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:12:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:18:9-21:25
+ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:16:9-19:25
 action#android.intent.action.MAIN
-ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:19:13-65
+ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:17:13-65
 	android:name
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:19:21-62
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:17:21-62
 category#android.intent.category.LAUNCHER
-ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:20:13-73
+ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:18:13-73
 	android:name
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:20:23-70
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:18:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:23:7-84
+ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:21:7-84
 	android:name
-		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:23:17-81
+		ADDED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml:21:17-81
 uses-sdk
 INJECTED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\ReactNative\beherchange\android\app\src\main\AndroidManifest.xml
 MERGED from [:react-native-gesture-handler] D:\ReactNative\beherchange\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] D:\ReactNative\beherchange\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9baad9cba8c2136a9f3523cc21a75a3c\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9baad9cba8c2136a9f3523cc21a75a3c\AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fc66de793de7d7dde9902c753b3962d7\AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fc66de793de7d7dde9902c753b3962d7\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\bd0d76581b453afabab23c24a7d187c9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\bd0d76581b453afabab23c24a7d187c9\AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\1b12b123ebbb459eb6038073ea55d052\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\1b12b123ebbb459eb6038073ea55d052\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\49a731b4affd9ee29d2b10677d560df9\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\49a731b4affd9ee29d2b10677d560df9\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ece0224849fb827b9855bd7f86aea3a0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ece0224849fb827b9855bd7f86aea3a0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\b78174c972b94dbbc099b1fff53d8e79\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\b78174c972b94dbbc099b1fff53d8e79\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\21d801b8c6e7b0e217cce29040970ef7\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\21d801b8c6e7b0e217cce29040970ef7\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\4e0f53a3d0edc012ca735e28a6d217e8\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\4e0f53a3d0edc012ca735e28a6d217e8\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d7ad9a68b48ff9d3d0040ac4484d8d63\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d7ad9a68b48ff9d3d0040ac4484d8d63\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9ac7536273863023f3a102d84f3b3510\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9ac7536273863023f3a102d84f3b3510\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\eb59fc05a22266f8cfe05da1c30e6561\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\eb59fc05a22266f8cfe05da1c30e6561\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d4a6174a196db9cdc250284dab565aa1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d4a6174a196db9cdc250284dab565aa1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\559713e21cd0820eafebfe207da3e4f0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\559713e21cd0820eafebfe207da3e4f0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\933a8eda1fb93937bbd892f3c63e38a9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\933a8eda1fb93937bbd892f3c63e38a9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c2d55e07ccc70e633f191c1419c5206a\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c2d55e07ccc70e633f191c1419c5206a\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ef9e9e747cab34a7bdaa815c4e3c4081\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ef9e9e747cab34a7bdaa815c4e3c4081\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\305a9bea620c2fe274903f5cde412957\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\305a9bea620c2fe274903f5cde412957\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\143cfcf25ab095db8bfbede54fb66466\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\143cfcf25ab095db8bfbede54fb66466\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\2c68df258682074948cfa4892dfacd80\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\2c68df258682074948cfa4892dfacd80\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7d49c6c30496de367f709aaaec4421b6\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7d49c6c30496de367f709aaaec4421b6\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\952d144c095c8b5aeee55fb4647949d7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\952d144c095c8b5aeee55fb4647949d7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\39d3b2874bf213a1a24810ff30800e94\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\39d3b2874bf213a1a24810ff30800e94\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a5c54d1e1f02441a001eaa2a6caf6bc3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a5c54d1e1f02441a001eaa2a6caf6bc3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\04b271f1089c526abc61627753759668\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\04b271f1089c526abc61627753759668\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ef6a625fdcba3c149534facb685effd2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ef6a625fdcba3c149534facb685effd2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9951c93eac492151d5925adcc3b817f7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\9951c93eac492151d5925adcc3b817f7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\8322de0faa8cdc921568765f6cae40e7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\8322de0faa8cdc921568765f6cae40e7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\b7366db9dbb95a538436e6992410f2e3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\b7366db9dbb95a538436e6992410f2e3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\59103b9d76923bca3c0c03d247081e1e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\59103b9d76923bca3c0c03d247081e1e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a8232297a8a5f6c7e6710739efc40a89\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a8232297a8a5f6c7e6710739efc40a89\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\28c306b993b4f90b97a567979dd4754e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\28c306b993b4f90b97a567979dd4754e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\bc284bc79a4a5b9d19ea7c23ac24b654\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\bc284bc79a4a5b9d19ea7c23ac24b654\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\763c5d952f173ad640a19cde175b0be0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\763c5d952f173ad640a19cde175b0be0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\685fec9ba83a14fa28f451ef6c530bb4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\685fec9ba83a14fa28f451ef6c530bb4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fdb535659c44fd15c1f86bcc15dcbe7f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fdb535659c44fd15c1f86bcc15dcbe7f\AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\89f0e134051d0f0e0423c33a58223575\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\89f0e134051d0f0e0423c33a58223575\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] D:\ReactNative\beherchange\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] D:\ReactNative\beherchange\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d8a28aff5e8fa8a5e2cbcef99444c604\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d8a28aff5e8fa8a5e2cbcef99444c604\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7c3f01de02b3b50010c7a5c892a531c8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7c3f01de02b3b50010c7a5c892a531c8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\95529aa9e455c5bda7b69c84c56563f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\95529aa9e455c5bda7b69c84c56563f0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fb656a8c480cf5d9043052b7d9e479e3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fb656a8c480cf5d9043052b7d9e479e3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7ae6e3eca6cf1033d77feb05ee61e3e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7ae6e3eca6cf1033d77feb05ee61e3e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\29e50df17170abf95a7edc19f842e025\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\29e50df17170abf95a7edc19f842e025\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\3aa0f48fb0e5151565c99ec48c321d03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\3aa0f48fb0e5151565c99ec48c321d03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\b6e334e623e608322e3064258f1380ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\b6e334e623e608322e3064258f1380ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fb201f58328367a471af9e7711fb8d1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fb201f58328367a471af9e7711fb8d1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d900090e96005e5ca9cf29b495a7e012\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d900090e96005e5ca9cf29b495a7e012\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c7a670fda218ccf6f17efffbe29cb3b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c7a670fda218ccf6f17efffbe29cb3b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\35855b730e9f80c00331571479429f85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\35855b730e9f80c00331571479429f85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a470555c547287192f9db71fa79f180d\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a470555c547287192f9db71fa79f180d\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\2594abf7317ebc124992952cae8c2b26\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\2594abf7317ebc124992952cae8c2b26\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cecc0d9478384164e99a1907b6305373\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cecc0d9478384164e99a1907b6305373\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\1c69786ba540a869bfe743bb1bbcd396\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\1c69786ba540a869bfe743bb1bbcd396\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\64a70e23b337cd0ee5b3441cf53be616\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\64a70e23b337cd0ee5b3441cf53be616\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ddd336262ca24549b2eefefb30e06691\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ddd336262ca24549b2eefefb30e06691\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\5e0e0a7b6ce1bb094a3abae368fc27df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\5e0e0a7b6ce1bb094a3abae368fc27df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\74b8f1425d65ddcaea4540d1223b279d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\74b8f1425d65ddcaea4540d1223b279d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\24cc231ce1a713a71694b7c24ec87f8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\24cc231ce1a713a71694b7c24ec87f8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\70685a9a9da02447986769f360075728\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\70685a9a9da02447986769f360075728\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\79d162336d14ec3d02e197dd2cd43b3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\79d162336d14ec3d02e197dd2cd43b3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\07ed4be19070afbeca0da261a890d727\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\07ed4be19070afbeca0da261a890d727\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\1e4ad43e93dfede08f025063cf917e9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\1e4ad43e93dfede08f025063cf917e9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\977f74b694705a383c873eb6f9138453\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\977f74b694705a383c873eb6f9138453\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\338ba40643f5f4c59459c9d7885bc41d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\338ba40643f5f4c59459c9d7885bc41d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ecab970821379834f68979732dcfec03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\ecab970821379834f68979732dcfec03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\21571c93c649fdf6759dcbca1ee7c19a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\21571c93c649fdf6759dcbca1ee7c19a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cf4a3b696684dfa379b9576aaf12fc7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cf4a3b696684dfa379b9576aaf12fc7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\e4f4d729e6b70e8a39b21bdd2fb9b1bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\e4f4d729e6b70e8a39b21bdd2fb9b1bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\5b425ce0e4c951af16b8a6314ec175ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\5b425ce0e4c951af16b8a6314ec175ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d4fc36ff7ea7d342f26be7aecc5176b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\d4fc36ff7ea7d342f26be7aecc5176b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\87f92b488b70853615fbb7f541938087\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\87f92b488b70853615fbb7f541938087\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\641353e674040656c9b8132217e3ea88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\641353e674040656c9b8132217e3ea88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\5b1d1ee179caad0fd3f6abb87755b560\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\5b1d1ee179caad0fd3f6abb87755b560\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\af254a0920c8ede803e69bf488fa74b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\af254a0920c8ede803e69bf488fa74b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fed4e27db543d290ebac21422ff5f930\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\fed4e27db543d290ebac21422ff5f930\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\f7932a57d79b3b2b54465c35f3775b0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\f7932a57d79b3b2b54465c35f3775b0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\f39d1354aadd940acced94017b1c134b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\f39d1354aadd940acced94017b1c134b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7f6f843eb393be127c35d4b729c6f9c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\7f6f843eb393be127c35d4b729c6f9c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\654e4b7f99d16350bf40043c3080e73e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\654e4b7f99d16350bf40043c3080e73e\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cfdfe40ba9e064f37435b5a951acfc7b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cfdfe40ba9e064f37435b5a951acfc7b\AndroidManifest.xml:5:5-7:41
 INJECTED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml
 INJECTED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
@@ -221,3 +251,45 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from D:\ReactNative\beherchange\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.INTERNET
+ADDED from [:react-native-maps] D:\ReactNative\beherchange\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [:react-native-maps] D:\ReactNative\beherchange\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] D:\ReactNative\beherchange\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] D:\ReactNative\beherchange\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\c526a6837991464ab0eae73776c4a128\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\35855b730e9f80c00331571479429f85\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\35855b730e9f80c00331571479429f85\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\35855b730e9f80c00331571479429f85\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\35855b730e9f80c00331571479429f85\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a470555c547287192f9db71fa79f180d\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cecc0d9478384164e99a1907b6305373\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\cecc0d9478384164e99a1907b6305373\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a470555c547287192f9db71fa79f180d\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\ssaim\.gradle\caches\transforms-2\files-2.1\a470555c547287192f9db71fa79f180d\AndroidManifest.xml:9:13-58

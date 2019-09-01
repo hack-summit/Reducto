@@ -15,6 +15,8 @@ import com.beherchange.R;
 
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
+// react-native-maps
+import com.airbnb.android.react.maps.MapsPackage;
 
 public class PackageList {
   private Application application;
@@ -48,7 +50,8 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(),
-      new RNGestureHandlerPackage()
+      new RNGestureHandlerPackage(),
+      new MapsPackage()
     ));
   }
 }
